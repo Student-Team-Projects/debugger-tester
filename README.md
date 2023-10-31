@@ -1,2 +1,2 @@
-# debugger-tester
-Tests for debugger
+# Debugger - Tester
+

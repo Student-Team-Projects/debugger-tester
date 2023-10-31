@@ -1,0 +1,1 @@
+function printChild8120353507510(idcommand) { document.write('<span class="info-title">from command:</span> <span class="info-value info-value-path"><a id="8120353507510" class="info-value-fromcall-ok" href="./2021-10-31--22-26-55-weronika-bosek-test-basic_sh.html#' + idcommand + '">/home/bosek/linuxscripts/debug/bin/test-basic.sh</a> c</span>'); }

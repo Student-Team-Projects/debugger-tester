@@ -1,0 +1,1 @@
+function printChild8794541961182(idcommand) { document.write('<span class="info-title">from command:</span> <span class="info-value info-value-path"><a id="8794541961182" class="info-value-fromcall-err" href="./2021-10-31--22-28-26-weronika-root-test-error_sh.html#' + idcommand + '">/root/Logs/test-error.sh</a> c</span>'); }

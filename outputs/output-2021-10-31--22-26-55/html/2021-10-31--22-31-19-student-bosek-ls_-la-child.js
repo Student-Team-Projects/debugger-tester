@@ -1,0 +1,1 @@
+function printChild3614906927696(idcommand) { document.write('<span class="info-title">from command:</span> <span class="info-value info-value-path"><a id="3614906927696" class="info-value-fromcall-ok" href="./2021-10-31--22-31-19-student-bosek-ls_-la.html#' + idcommand + '">ls&nbsp;-la&nbsp;/</a> c</span>'); }
